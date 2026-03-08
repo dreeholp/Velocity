@@ -1,0 +1,1293 @@
+# Velocity Xbox 360 - Strings para Traducao ao Portugues
+# Formato: CHAVE=Texto original em ingles
+# Traduza apenas o lado DIREITO do sinal de igual (=)
+# Nao altere as CHAVES (lado esquerdo)
+# Total de strings: 949
+
+
+## --- achievementcreationwizard.cpp ---
+achievementcreationwizard_0001=Invalid Image
+achievementcreationwizard_0002=The thumbnail image for the achievement must 64x64 pixels.
+achievementcreationwizard_0003=You have successfully created a custom achievement. Click finish to add the achievement to
+achievementcreationwizard_0004=Welcome to the achievement creation wizard! This wizard will allow you to create an achievement for
+achievementcreationwizard_0005=The player has completed a game. For example, finishing the single-player campaign or finishing Dynasty Mode.
+achievementcreationwizard_0006=The player has increased their level. For example, becoming an Expert in a multiplayer game.
+achievementcreationwizard_0007=The player has unlocked a new game feature. For example, unlocking a new map or weapon type.
+achievementcreationwizard_0008=The player has completed a special goal in the game. For example, scoring 3 goals in a single soccer match.
+achievementcreationwizard_0009=The player has gained an award in a tournament-level event. For example, winning 3rd place in the FIFA World Cup.
+achievementcreationwizard_0010=The player has reached a certain point or completed a specific portion of the game. For example, completing the 3rd level of the game.
+achievementcreationwizard_0011=The player has done something that falls outside the other achievement types.
+achievementcreationwizard_0012=Choose a thumbnail for your achievement
+
+## --- certificatedialog.cpp ---
+certificatedialog_0013=Invalid Value
+certificatedialog_0014=The Public Key Certificate Size must be all hexadecimal digits.\n
+certificatedialog_0015=The ConsoleID must be 10 hexadecimal digits long.\n
+certificatedialog_0016=The length of the Console Part Number must be less than 20.\n
+certificatedialog_0017=The length of the Date of Generation must be 8.\n
+certificatedialog_0018=The Public Exponent must be all hexadecimal digits.\n
+certificatedialog_0019=Certificate loaded successfully
+certificatedialog_0020=Certificate saved successfully
+
+## --- clustertooldialog.cpp ---
+clustertooldialog_0021=0x
+
+## --- creationwizard.cpp ---
+creationwizard_0022=Error
+creationwizard_0023=The image must be a 64x64 PNG image.
+creationwizard_0024=An error occured while creating the package.\n\n
+creationwizard_0025=<font size=3>
+creationwizard_0026=Open a 64x64 thumbnail
+creationwizard_0027=Choose a place to create the pacakge
+
+## --- devicecontentviewer.cpp ---
+devicecontentviewer_0028=Out of Space
+devicecontentviewer_0029=Invalid XContent
+devicecontentviewer_0030=Copying halted. There is not enough free space on the device for
+devicecontentviewer_0031=Copying halted. One or more of the files you are trying to copy to the device is not a valid Xbox360 file.
+devicecontentviewer_0032=An error occurred while deleting files.\n\n
+devicecontentviewer_0033=Copy to
+devicecontentviewer_0034=Device Content Viewer - Loading Device(s)
+devicecontentviewer_0035=Device Content Viewer
+devicecontentviewer_0036=...
+devicecontentviewer_0037=Viewing package...
+devicecontentviewer_0038=Loading package...
+devicecontentviewer_0039=View Package
+devicecontentviewer_0040=Copy Selected to Local Disk
+devicecontentviewer_0041=Delete Selected Items
+devicecontentviewer_0042=Rename
+devicecontentviewer_0043=Copy File(s) Here
+devicecontentviewer_0044=Choose a place to extract the files to...
+
+## --- deviceviewer.cpp ---
+deviceviewer_0045=Invalid Filename
+deviceviewer_0046=Problem
+deviceviewer_0047=Problem Loading
+deviceviewer_0048=Problem Renaming
+deviceviewer_0049=The inputted name is invalid.
+deviceviewer_0050=The operation failed.\n\n
+deviceviewer_0051=The drive failed to load.\n\n
+deviceviewer_0052=The folder failed to load.\n\n
+deviceviewer_0053=Velocity can't find
+deviceviewer_0054=The drive could not be renamed.\n\n
+deviceviewer_0055=No drives detected
+deviceviewer_0056=Drive(s) loaded successfully
+deviceviewer_0057=Copy file(s) here
+deviceviewer_0058=Successfully reloaded storage device
+deviceviewer_0059=Security Blob
+deviceviewer_0060=Config Data
+deviceviewer_0061=Drive:\\
+deviceviewer_0062=Copy Folder Here
+deviceviewer_0063=Create Folder Here
+deviceviewer_0064=Delete Selected
+deviceviewer_0065=View Properties
+deviceviewer_0066=Refresh
+deviceviewer_0067=Save Location
+deviceviewer_0068=Choose file(s) to copy...
+deviceviewer_0069=Choose a folder to copy...
+deviceviewer_0070=Create a backup for your device
+deviceviewer_0071=Choose a backup to restore from
+
+## --- fatxfiledialog.cpp ---
+fatxfiledialog_0072=N/A
+
+## --- fatxpathgendialog.cpp ---
+fatxpathgendialog_0073=Data\\Content\\
+
+## --- gameadderdialog.cpp ---
+gameadderdialog_0074=File Error
+gameadderdialog_0075=Listing Error
+gameadderdialog_0076=Error Occured
+gameadderdialog_0077=Warning
+gameadderdialog_0078=Error Writing Entry
+gameadderdialog_0079=Error Adding Games
+gameadderdialog_0080=Error Replacing Gpd
+gameadderdialog_0081=PEC Error
+gameadderdialog_0082=Fixing Error
+gameadderdialog_0083=No Games
+gameadderdialog_0084=Developer Mode?
+gameadderdialog_0085=The dashboard Gpd could not be extracted/opened.\n\n
+gameadderdialog_0086=The listing could not be parsed. Try again later, as the servers may be down and make sure Velocity has access to the internet.
+gameadderdialog_0087=An error occured while injecting
+gameadderdialog_0088=An unknown error occured while injecting the game(s).
+gameadderdialog_0089=Not all games could be added successfully! The following game(s) failed:\n
+gameadderdialog_0090=The entry was not written successfully.\n\n
+gameadderdialog_0091=Some of the games weren't added correctly.
+gameadderdialog_0092=The dashboard Gpd could not be replaced.\n\n
+gameadderdialog_0093=The PEC file could not be replaced/injected.\n\n
+gameadderdialog_0094=The package could not be rehashed/resigned.\n\n
+gameadderdialog_0095=You have selected no games to add.
+gameadderdialog_0096=Developer mode will display games that have not yet been approved by the Velocity developers. With this said, these games could potentially corrupt your profile. Would you like to continue?
+gameadderdialog_0097=<i>Unable to download image.</i>
+gameadderdialog_0098=<i>N/A</i>
+gameadderdialog_0099=<span style=\
+gameadderdialog_0100=Add to Queue
+gameadderdialog_0101=Remove from Queue
+
+## --- gamerpicturepackdialog.cpp ---
+gamerpicturepackdialog_0102=Success
+gamerpicturepackdialog_0103=Successfully created your picture pack.
+gamerpicturepackdialog_0104=An error occurred while creating your picture pack.\n\n
+gamerpicturepackdialog_0105=Couldn't download gamertag gamer picture
+gamerpicturepackdialog_0106=Couldn't download gamertag infomation
+gamerpicturepackdialog_0107=Cannot add avatar gamer picture
+gamerpicturepackdialog_0108=Downloading gamer picture...
+gamerpicturepackdialog_0109=Searching for '
+gamerpicturepackdialog_0110=Search returned
+gamerpicturepackdialog_0111=Finding gamerpictures for
+gamerpicturepackdialog_0112=Image already exists in pack
+gamerpicturepackdialog_0113=Successfully saved gamerpicture
+gamerpicturepackdialog_0114=Creating picture pack, %0 complete
+gamerpicturepackdialog_0115=Creating picture pack,
+gamerpicturepackdialog_0116=Successfully created your picture pack
+gamerpicturepackdialog_0117=Search stopped
+gamerpicturepackdialog_0118=Clear All
+gamerpicturepackdialog_0119=Add to Pack
+gamerpicturepackdialog_0120=Remove from Pack
+gamerpicturepackdialog_0121=Save Image
+gamerpicturepackdialog_0122=Choose a place to save the gamerpicture
+gamerpicturepackdialog_0123=Choose a place to save your picture pack
+gamerpicturepackdialog_0124=<b>
+
+## --- githubcommitsdialog.cpp ---
+githubcommitsdialog_0125=<center>Error connecting to GitHub...</center>
+
+## --- isodialog.cpp ---
+isodialog_0126=Extract All Error
+isodialog_0127=Error Opening File
+isodialog_0128=An error occurred while extracting all the files.\n\n
+isodialog_0129=Unable to open the file.\n\n
+isodialog_0130=ISO parsed successfully
+isodialog_0131=File extracted successfully
+isodialog_0132=Extract
+isodialog_0133=Choose a location to extract the files to
+isodialog_0134=Choose a place to extract the file to
+
+## --- licensingdatadialog.cpp ---
+licensingdatadialog_0135=Continue?
+licensingdatadialog_0136=The License ID in row
+licensingdatadialog_0137=The Bits in row
+licensingdatadialog_0138=The Flags in row
+licensingdatadialog_0139=Content unlocked this way can only be used on a JTAG/RGH/Dev. If you try and play on a retail, it will show up as corrupt.\n\nAre you sure that you want to unlock this content?
+licensingdatadialog_0140=Licenses loaded successfully
+licensingdatadialog_0141=Licenses saved successfully
+licensingdatadialog_0142=0xFFFFFFFFFFFF
+licensingdatadialog_0143=0x1
+licensingdatadialog_0144=0x0
+
+## --- mainwindow.cpp ---
+mainwindow_0145=Invalid Package
+mainwindow_0146=Opening Error
+mainwindow_0147=Couldn't Repalce Gpd
+mainwindow_0148=Unknown File Format
+mainwindow_0149=Profile Error
+mainwindow_0150=Package Error
+mainwindow_0151=Gpd Error
+mainwindow_0152=Version
+mainwindow_0153=Already Up-to-Date
+mainwindow_0154=SVOD Error
+mainwindow_0155=Ytgr Error
+mainwindow_0156=Error Opening ISO
+mainwindow_0157=Error Opening XEX
+mainwindow_0158=Error Opening XUIZ
+mainwindow_0159=The selected package is not a 'Saved Game' file.
+mainwindow_0160=Could not open save game package.\n\n
+mainwindow_0161=Could not open save game package for an unknown reason.
+mainwindow_0162=Could not extract gpd.\n\n
+mainwindow_0163=Could not extract gpd for an unknown reason.
+mainwindow_0164=The Gpd could not be replaced.\n\n
+mainwindow_0165=The following file is an unknown format. Velocity can only read ISO, STFS, STRB, SVOD, XEX, XDBF, XUIZ, and YTGR files.\n\n
+mainwindow_0166=An error occurred while opening the file.\n\n
+mainwindow_0167=An error has occurred while opening the profile.\n\n
+mainwindow_0168=An error has occurred while opening the package.\n\n
+mainwindow_0169=An error has occurred while opening the Gpd.\n\n
+mainwindow_0170=An error occured while opening the STRB package.\n\n
+mainwindow_0171=This version of Velocity is already the latest.
+mainwindow_0172=An error has occurred while opening the SVOD system.\n\n
+mainwindow_0173=An error has occurred while parsing a Ytgr header.\n\n
+mainwindow_0174=The following file(s) weren't found:
+mainwindow_0175=Welcome to Velocity!
+mainwindow_0176=Open file(s)
+mainwindow_0177=Rehash and resign file(s)
+mainwindow_0178=STFS package loaded successfully.
+mainwindow_0179=STFS package rehashed and resigned successfully.
+mainwindow_0180=Gpd parsed successfully
+mainwindow_0181=STRB file parsed successfully
+mainwindow_0182=Stfs package loaded successfully.
+mainwindow_0183=Stfs package created successfully.
+mainwindow_0184=Loading SVOD system...
+mainwindow_0185=Device Detected
+mainwindow_0186=Devices Detected
+mainwindow_0187=Open an SVOD root descriptor...
+mainwindow_0188=Open a file with a Ytgr security header...
+mainwindow_0189=Open an ISO
+mainwindow_0190=Open an XEX
+mainwindow_0191=Open an XUIZ File
+
+## --- metadata.cpp ---
+metadata_0192=Invalid Length
+metadata_0193=The ContentID/Header Hash must be 40 hexadecimal digits.\n
+metadata_0194=The Header Size must be all hexadecimal digits.\n
+metadata_0195=The MediaID must be all hexadecimal digits.\n
+metadata_0196=The Version must be all digits.\n
+metadata_0197=The Base Version must be all digits.\n
+metadata_0198=The TitleID must be all hexadecimal digits.\n
+metadata_0199=The Platform must be all digits.\n
+metadata_0200=The Executable Type must be all digits.\n
+metadata_0201=The Disc Number must be all digits.\n
+metadata_0202=The Disc In Set must be all digits.\n
+metadata_0203=The Save Game ID must be all hexadecimal digits.\n
+metadata_0204=The Console ID must be 10 hexadecimal digits.\n
+metadata_0205=The Profile ID must be 16 hexadecimal digits.\n
+metadata_0206=The Data File Count must be all digits.\n
+metadata_0207=The Data File Combined Size must be all digits.\n
+metadata_0208=The SeriesID value must be all digits.\n
+metadata_0209=The SeasonID value must be all digits.\n
+metadata_0210=The Season Number value must be all digits.\n
+metadata_0211=The Episode Number value must be all digits.\n
+metadata_0212=The Colorizable value must be all digits.\n
+metadata_0213=The GUID must be 16 hexadecimal digits.\n
+metadata_0214=The Device ID must be 40 hexadecimal digits.\n
+metadata_0215=The maximum length for the Display Name is 128.\n
+metadata_0216=The maximum length for the Display Description is 128.\n
+metadata_0217=The maximum length for the Publisher Name is 128.\n
+metadata_0218=The maximum length for the Title Name is 128.\n
+metadata_0219=The Thumbnail Image Size must be all digits.\n
+metadata_0220=The Title Thumbnail Image Size must be all digits.\n
+metadata_0221=Invalid value for the installer base version. The version should be in the following format, at or below the values provided:\n\n15.15.65535.255\n
+metadata_0222=Invalid value for the installer version. The version should be in the following format, at or below the values provided:\n\n15.15.65535.255\n
+metadata_0223=The Current File Index must be all digits.\n
+metadata_0224=The Current File Offset must be all digits.\n
+metadata_0225=The Bytes Processed must be all digits.\n
+metadata_0226=Failed to save metadata.\n\n
+metadata_0227=Loaded metadata successfully
+metadata_0228=Saved metadata successfully
+metadata_0229=View Certificate
+metadata_0230=View License Table
+metadata_0231=View Volume Descriptor
+metadata_0232=View Transfer Flags
+
+## --- multiprogressdialog.cpp ---
+multiprogressdialog_0233=File Already Exists
+multiprogressdialog_0234=An error occurred while extracting files.\n\n
+multiprogressdialog_0235=The file
+multiprogressdialog_0236=An error occurred while copying files to the drive.\n\n
+multiprogressdialog_0237=An error occurred while copying files to the device.\n\n
+multiprogressdialog_0238=Extracting
+multiprogressdialog_0239=Copying
+multiprogressdialog_0240=Overall Progress -
+
+## --- packageviewer.cpp ---
+packageviewer_0241=Inject Error
+packageviewer_0242=The profile ID must be 16 hexadecimal digits.
+packageviewer_0243=The device ID must be 40 hexadecimal digits.
+packageviewer_0244=Failed to rehash the package.\n\n
+packageviewer_0245=Failed to resign the package.\n\n
+packageviewer_0246=The package has successfully been rehashed
+packageviewer_0247=Failed to extract file.\n\n
+packageviewer_0248=Failed to delete file.\n\n
+packageviewer_0249=Some files could not be deleted.\n\nSuccessful Deletions:
+packageviewer_0250=Failed to rename file.\n\n
+packageviewer_0251=Failed to replace file.\n\n
+packageviewer_0252=The following files could not be injected:\n\n
+packageviewer_0253=Failed to open file.\n\n
+packageviewer_0254=Failed to open the Gpd.\n\n
+packageviewer_0255=Failed to open PEC file.\n\n
+packageviewer_0256=Failed to open Stfs Package.\n\n
+packageviewer_0257=Failed to open XEX.\n\n
+packageviewer_0258=Rehashed
+packageviewer_0259=Thumbnail image saved successfully
+packageviewer_0260=Selected files extracted successfully
+packageviewer_0261=All files extracted successfully
+packageviewer_0262=Selected files removed successfully
+packageviewer_0263=File renamed successfully
+packageviewer_0264=File replaced successfully
+packageviewer_0265=Invalid Gpd
+packageviewer_0266=Magic: <i>N/A</i>
+packageviewer_0267=Display Name: <i>N/A</i>
+packageviewer_0268=Title ID: <i>N/A</i>
+packageviewer_0269=Type: PEC
+packageviewer_0270=Magic: 0x
+packageviewer_0271=Display Name:
+packageviewer_0272=Rehash
+packageviewer_0273=Package Type: <i>Unknown</i>
+packageviewer_0274=Title ID:
+packageviewer_0275=Rehash/Resign
+packageviewer_0276=Extract All
+packageviewer_0277=Inject Here
+packageviewer_0278=Extract Selected
+packageviewer_0279=Remove Selected
+packageviewer_0280=Rename Selected
+packageviewer_0281=Replace File
+packageviewer_0282=Choose a location to save the thumbnail
+packageviewer_0283=New File
+packageviewer_0284=Select File(s) to Inject
+packageviewer_0285=Profile Editor
+packageviewer_0286=Game Adder
+
+## --- preferencesdialog.cpp ---
+preferencesdialog_0287=Choose the plugin path
+
+## --- profilecleanerwizard.cpp ---
+profilecleanerwizard_0288=Invalid Profile
+profilecleanerwizard_0289=Clean Error
+profilecleanerwizard_0290=An error occurred while opening your profile.\n\n
+profilecleanerwizard_0291=The package you opened is not a profile.
+profilecleanerwizard_0292=The profile you opened is missing essential files.
+profilecleanerwizard_0293=An error has occurred while cleaning your profile.\n\n
+profilecleanerwizard_0294=Finished
+profilecleanerwizard_0295=Choose a profile to clean
+
+## --- profilecreatorwizard.cpp ---
+profilecreatorwizard_0296=An error occured while creating the profile.\n\n
+profilecreatorwizard_0297=Created profile successfully
+profilecreatorwizard_0298=Choose a place to create the profile
+
+## --- profileeditor.cpp ---
+profileeditor_0299=File Not Found
+profileeditor_0300=File Load Error
+profileeditor_0301=File Not Error
+profileeditor_0302=Asset Downloaded
+profileeditor_0303=Save Error
+profileeditor_0304=Are you sure?
+profileeditor_0305=Creation Error
+profileeditor_0306=Package opened isn't a profile.\n
+profileeditor_0307=Dashboard Gpd, FFFE07D1.gpd, wasn't found.\n
+profileeditor_0308=The Account file wasn't found.\n
+profileeditor_0309=An error has occurred while loading the profile.\n\n
+profileeditor_0310=An unknown error has occurred while loading the profile.
+profileeditor_0311=Couldn't find file \
+profileeditor_0312=Error loading game Gpd, '
+profileeditor_0313=Games have been found with avatar awards, but no PEC file exists.\n
+profileeditor_0314=An error has occurred while extracting the PEC.\n\n
+profileeditor_0315=Error loading PEC file.\n\n
+profileeditor_0316=Avatar Award Gpd '
+profileeditor_0317=Error loading the Avatar Award Gpd '
+profileeditor_0318=You are about to download an avatar award file. Unfortunatly the awards downloaded like this will only work on a JTAG/RGH/Dev.\n\nDo you want to continue?
+profileeditor_0319=Successfully downloaded the avatar asset.
+profileeditor_0320=An error occurred while creating the asset package.\n\n
+profileeditor_0321=An unknown error occurred while creating the asset package.
+profileeditor_0322=An error occurred while saving the profile.\n\n
+profileeditor_0323=An error occurred while loading a game.\n\n
+profileeditor_0324=Successfully saved thumbnail image
+profileeditor_0325=An error occurred while adding the avatar image to your profile.\n\n
+profileeditor_0326=Are you sure that you want to unlock all of the achievements for
+profileeditor_0327=Successfully extracted
+profileeditor_0328=Failed to extract
+profileeditor_0329=Are you sure that you want to unlock all of the avatar awards for
+profileeditor_0330=An error occurred while updating the achievement.\n\n
+profileeditor_0331=The length of a gamer's bio must be less than or equal to 499 characters.\n
+profileeditor_0332=An error occurred while creating an achievement.\n\n
+profileeditor_0333=Are you sure that you want to unlock all achievements and avatar awards offline?
+profileeditor_0334=Loading profile...
+profileeditor_0335=Profile loaded successfully
+profileeditor_0336=Requesting asset...
+profileeditor_0337=Asset downloaded successfully
+profileeditor_0338=Saved all changes
+profileeditor_0339=Extracted Gpd successfully
+profileeditor_0340=All awards unlocked for
+profileeditor_0341=Updated
+profileeditor_0342=Unlocking... 0/
+profileeditor_0343=Unlocking...
+profileeditor_0344=Successfully unlocked everything
+profileeditor_0345=0G
+profileeditor_0346=Locked: <span style=\
+profileeditor_0347=Unlocked: <span style=\
+profileeditor_0348=Type: <span style=\
+profileeditor_0349=Gender: <span style=\
+profileeditor_0350=Download Award
+profileeditor_0351=Choose a place to save the asset
+profileeditor_0352=Choose a place to save the thumbnail
+profileeditor_0353=Choose a place to save the Gpd
+
+## --- profileselectiondialog.cpp ---
+profileselectiondialog_0354=Owner of
+
+## --- securitysectordialog.cpp ---
+securitysectordialog_0355=Successfully saved the security blob.
+securitysectordialog_0356=An error occurred while extracting the security blob.\n\n
+securitysectordialog_0357=Successfully replaced the security blob.
+securitysectordialog_0358=An error occurred while replacing the security blob.\n\n
+securitysectordialog_0359=Choose a place to save the security blob...
+securitysectordialog_0360=Choose a security blob...
+
+## --- singleprogressdialog.cpp ---
+singleprogressdialog_0361=An error occurred while copy the file to your device.\n\n
+singleprogressdialog_0362=An error occurred while creating a backup for your device.\n\n
+singleprogressdialog_0363=An error occurred while restoring your device from a backup.\n\n
+singleprogressdialog_0364=An error occured during the operation.\n\n
+singleprogressdialog_0365=Injecting File
+singleprogressdialog_0366=Replacing File
+singleprogressdialog_0367=Creating Backup
+singleprogressdialog_0368=Restoring from Backup
+singleprogressdialog_0369=Extracting All Files
+singleprogressdialog_0370=Extracting File
+
+## --- stfsvolumedescriptordialog.cpp ---
+stfsvolumedescriptordialog_0371=The Struct Size must be all hexadecimal digits.\n
+stfsvolumedescriptordialog_0372=The File Table Block Count must be all digits.\n
+stfsvolumedescriptordialog_0373=The File Table Block Number must be all digits.\n
+stfsvolumedescriptordialog_0374=The Top Hash Table Hash must be 40 hexadecimal digits.\n
+stfsvolumedescriptordialog_0375=The Total Allocated Block Count must be all digits.\n
+stfsvolumedescriptordialog_0376=The Total Unallocated Block Count must be all digits.\n
+stfsvolumedescriptordialog_0377=Volume Descriptor loaded successfully
+stfsvolumedescriptordialog_0378=Volume Descriptor saved successfully
+
+## --- strbdialog.cpp ---
+strbdialog_0379=Asset Gender:
+strbdialog_0380=Binary Type:
+strbdialog_0381=Type Details: 0x
+strbdialog_0382=Sub-Category:
+strbdialog_0383=Skeleton Version:
+strbdialog_0384=Duration:
+strbdialog_0385=Frames Per Second:
+strbdialog_0386=Frame Count:
+strbdialog_0387=Metadata - Not Found
+strbdialog_0388=Animation - Not Found
+
+## --- svoddialog.cpp ---
+svoddialog_0389=Successfully rehashed the system.
+svoddialog_0390=An error occurred while rehashing the system.\n\n
+svoddialog_0391=An error occurred while loading the STFS package.\n\n
+svoddialog_0392=The KeyVault provided is not from the console where this SVOD system was signed. This system will show up as corrupt on the original console. Unless you know what you're doing, choose no.\n\nAre you sure that you want to contiure?
+svoddialog_0393=Successfuly resigned the system.
+svoddialog_0394=An error occurred while resigning the system.\n\n
+svoddialog_0395=SVOD system parsed successfully
+svoddialog_0396=Rehashing files
+svoddialog_0397=Successfully rehashed the system
+svoddialog_0398=Replace
+svoddialog_0399=Choose a place to save the file...
+svoddialog_0400=Choose a modifed version to repalce...
+svoddialog_0401=Choose a kv for resigning
+
+## --- svodvolumedescriptordialog.cpp ---
+svodvolumedescriptordialog_0402=The struct size must be all hexadecimal digits.\n
+svodvolumedescriptordialog_0403=The block cache element must be all digits.\n
+svodvolumedescriptordialog_0404=The worker thread processor must be all digits.\n
+svodvolumedescriptordialog_0405=The worker thread priority must be all digits.\n
+svodvolumedescriptordialog_0406=The root hash must be all hexadecimal digits.\n
+svodvolumedescriptordialog_0407=The device features must be all hexadecimal digits.\n
+svodvolumedescriptordialog_0408=The data block count must be all hexadecimal digits.\n
+svodvolumedescriptordialog_0409=The data block offset must be all hexadecimal digits.\n
+svodvolumedescriptordialog_0410=Successfully loaded volume descriptor
+svodvolumedescriptordialog_0411=Volume Descriptor updated successfully
+
+## --- themecreationwizard.cpp ---
+themecreationwizard_0412=An error occured while creating the theme.\n\n
+themecreationwizard_0413=Thumbnail must be a 64x64 PNG image.
+themecreationwizard_0414=The requested image could not be loaded successfully.
+themecreationwizard_0415=Theme created successfully
+themecreationwizard_0416=Choose a thumbnail image
+themecreationwizard_0417=Choose a wallpaper image
+themecreationwizard_0418=Choose a place to save your theme
+
+## --- titleidfinderdialog.cpp ---
+titleidfinderdialog_0419=Searching...
+titleidfinderdialog_0420=Copied Successfully
+titleidfinderdialog_0421=Copy Title ID
+titleidfinderdialog_0422=View on Xbox.com
+
+## --- transferflagsdialog.cpp ---
+transferflagsdialog_0423=Transfer flags loaded successfully
+transferflagsdialog_0424=Transfer flags saved successfully
+transferflagsdialog_0425=Remove Flag
+
+## --- xdbfdialog.cpp ---
+xdbfdialog_0426=Setting
+xdbfdialog_0427=An error occurred while extracting.\n\n
+xdbfdialog_0428=An error occurred while replacing.\n\n
+xdbfdialog_0429=Cleaning the Gpd will remove all of the unused memory that is in the file. This could potentially reduce the size of the Gpd.\n\nDo you want to continue?
+xdbfdialog_0430=An error occured while cleaning the Gpd.\n\n
+xdbfdialog_0431=<html><center><h3>Unicode String</h3><br />
+xdbfdialog_0432=<html><center><h3>Unicode String</h3><br /><i>Empty</i></center></html>
+xdbfdialog_0433=<html><center><h3>Int32 Setting</h3><br />
+xdbfdialog_0434=<html><center><h3>Int64 Setting</h3><br />
+xdbfdialog_0435=<html><center><h3>Float Setting</h3><br />
+xdbfdialog_0436=<html><center><h3>Double Setting</h3><br />
+xdbfdialog_0437=<html><center><h3>String Setting</h3><br />
+xdbfdialog_0438=<html><center><h3>String Setting</h3><br /><i>Empty</i></center></html>
+xdbfdialog_0439=<html><center><h3>Timestamp Setting</h3><br />
+xdbfdialog_0440=Selected entries extracted successfully
+xdbfdialog_0441=Entry replaced successfully
+xdbfdialog_0442=Cleaned Gpd successfully
+xdbfdialog_0443=Cannot view this type of entry
+xdbfdialog_0444=Xdbf Viewer -
+xdbfdialog_0445=Replace Entry
+xdbfdialog_0446=Address Converter
+xdbfdialog_0447=Clean
+xdbfdialog_0448=Extract Directory
+xdbfdialog_0449=Choose a place to extract the entry
+xdbfdialog_0450=Open the entry to replace the current with
+
+## --- xexdialog.cpp ---
+xexdialog_0451=Error Extracting Base File
+xexdialog_0452=Extracting Error
+xexdialog_0453=An error occurred while extracting the base file.\n\n
+xexdialog_0454=An error occurred while extracted a file.\n\n
+xexdialog_0455=XEX Dialog [
+xexdialog_0456=Save the base file
+
+## --- xuizdialog.cpp ---
+xuizdialog_0457=Successfully extracted file
+
+## --- ytgrdialog.cpp ---
+ytgrdialog_0458=Ytgr header parsed successfully
+
+## --- about.ui ---
+UI_about_0459=About
+UI_about_0460=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:18pt; font-weight:600;&quot;&gt;Developers&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:12pt;&quot;&gt;Stevie &amp;quot;Hetelek&amp;quot; Hetelekides&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:12pt;&quot;&gt;Adam &amp;quot;Experiment5X&amp;quot; Spindler&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:12pt; font-weight:600;&quot;&gt;Special Thanks&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:10pt;&quot;&gt;CLK, Chief COLLINS, Eaton, gabe_k, godzcheater, 2FacedDevil, and everyone who contributed to free60.org&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_about_0461=Get Source Code
+UI_about_0462=Free60.org
+UI_about_0463=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Velocity is completely free, and open source. It is also licensed and distributed under the GNU General Public License (v3). For more information on licensing please view the README or go to &lt;/span&gt;&lt;a href=&quot;http://www.gnu.org/licenses/&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline; color:#0000ff;&quot;&gt;GNU Homepage.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This application is not affiliated with Microsoft Corp. &amp;quot;Microsoft&amp;quot;, &amp;quot;Xbox&amp;quot;, &amp;quot;Xbox 360&amp;quot;, and &amp;quot;Xbox LIVE&amp;quot; are registered trademarks of Microsoft Corp.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+
+## --- achievementcreationwizard.ui ---
+UI_achievementcreationwizard_0464=Wizard
+UI_achievementcreationwizard_0465=Achievement Creation Wizard
+UI_achievementcreationwizard_0466=Welcome!
+UI_achievementcreationwizard_0467=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Welcome to the achievement creation wizard! This wizard will allow you to create an achievement for the game _____. The achievement you create will only be obtainable through modding, and since it isn't an official achievement, your friends on XboxLIVE will not be able to see it.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Click next to begin.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0468=Name and Description
+UI_achievementcreationwizard_0469=Choose the text that you want the gamer to see
+UI_achievementcreationwizard_0470=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Name:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0471=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Locked Description:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0472=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Unlocked Description:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0473=Thumbnail
+UI_achievementcreationwizard_0474=Choose the image that will represent the achievement
+UI_achievementcreationwizard_0475=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;The thumbnail chosen must be 64x64 pixels and it must be a PNG image. The thumbnail for the achievement will be available to the gamer both before and after it has been unlocked.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0476=Gamerscore
+UI_achievementcreationwizard_0477=Choose the amount of gamerscore to be awared to the gamer upon unlocking it
+UI_achievementcreationwizard_0478=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;No matter how much gamerscore is awarded for unlocking this achievement, none if it will go towards the amount seen by your friends. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0479=Achievement Type
+UI_achievementcreationwizard_0480=A category the achievement is put in based on how it is obtainable
+UI_achievementcreationwizard_0481=Completion
+UI_achievementcreationwizard_0482=Leveling
+UI_achievementcreationwizard_0483=Unlock
+UI_achievementcreationwizard_0484=Event
+UI_achievementcreationwizard_0485=Tournament
+UI_achievementcreationwizard_0486=Checkpoint
+UI_achievementcreationwizard_0487=Other
+UI_achievementcreationwizard_0488=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;The player has completed a game. For example, finishing the single-player campaign or finishing Dynasty Mode.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0489=Secret
+UI_achievementcreationwizard_0490=Choose whether or not the achievement is secret
+UI_achievementcreationwizard_0491=Not Secret
+UI_achievementcreationwizard_0492=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;If the achievement if secret, then the gamer cannot see a description of the achievement before it is unlocked. Therefore the player will not know how to obtain the achievement.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_achievementcreationwizard_0493=The End
+UI_achievementcreationwizard_0494=You're done
+UI_achievementcreationwizard_0495=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;You have successfully created a custom achievement. Click finish to add the achievement to &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+
+## --- addressconverterdialog.ui ---
+UI_addressconverterdialog_0496=Address Specifier:
+UI_addressconverterdialog_0497=Real Address:
+UI_addressconverterdialog_0498=Convert
+
+## --- certificatedialog.ui ---
+UI_certificatedialog_0499=Certificate
+UI_certificatedialog_0500=Public Key Certificate Size
+UI_certificatedialog_0501=Console ID
+UI_certificatedialog_0502=Console Part Number
+UI_certificatedialog_0503=Owner Console Type
+UI_certificatedialog_0504=Test Kit
+UI_certificatedialog_0505=Recovery Generated
+UI_certificatedialog_0506=Date of Generation
+UI_certificatedialog_0507=Public Exponent
+UI_certificatedialog_0508=Value
+UI_certificatedialog_0509=Public Modulus
+UI_certificatedialog_0510=Certificate Signature
+UI_certificatedialog_0511=Signature
+UI_certificatedialog_0512=Save Changes
+UI_certificatedialog_0513=Cancel
+
+## --- clustertooldialog.ui ---
+UI_clustertooldialog_0514=Cluster Tool Dialog
+UI_clustertooldialog_0515=Cluster:
+UI_clustertooldialog_0516=Address:
+
+## --- creationwizard.ui ---
+UI_creationwizard_0517=Package Creation Wizard
+UI_creationwizard_0518=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Welcome to Velocity's package creation wizard! Here you will be guided through a series of pages where you will select various options which your package will depend on. The file format of the package will be STFS, which is used on the Xbox360.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0519=Console Type
+UI_creationwizard_0520=Choose the type of console the package will be for
+UI_creationwizard_0521=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:10pt; font-weight:600;&quot;&gt;Retail&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:8pt;&quot;&gt;Any console that can/did connect to Xbox LIVE. This includes banned consoles as well as JTAGs and RGHs. Not sure? Then choose this option.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0522=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:10pt; font-weight:600;&quot;&gt;Development Kit&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:8pt;&quot;&gt;Any official XDK or an RGH that is running the dev kernel. These consoles cannot connect to Xbox LIVE.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0523=Magic
+UI_creationwizard_0524=The type of STFS package.
+UI_creationwizard_0525=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;CON&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Packages signed by the console meaning that they can be edited for use on any console. These packages are used to store local files such as savegames and profiles.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0526=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;LIVE&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Packages signed by Microsoft meaning that they cannot be edited for use on a retail console. These packages are used to store marketplace content such as game add-ons and avatar items.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0527=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;PIRS&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Packages signed by Microsoft meaning that they cannot be edited for use on a retail console. These packages are used for on disc content such as nxe art.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_creationwizard_0528=Content Type
+UI_creationwizard_0529=The type of content stored inside the package.
+UI_creationwizard_0530=Content Information
+UI_creationwizard_0531=Provide some information about the package
+UI_creationwizard_0532=Title Name:
+UI_creationwizard_0533=Xbox360 Dashboard
+UI_creationwizard_0534=FFFE07D1
+UI_creationwizard_0535=Thumbnails
+UI_creationwizard_0536=Choose the thumbnail images for the package
+UI_creationwizard_0537=Title Thumbnail
+UI_creationwizard_0538=Choose a place to create the package
+UI_creationwizard_0539=TextLabel
+
+## --- devicecontentviewer.ui ---
+UI_devicecontentviewer_0540=Content
+UI_devicecontentviewer_0541=Size
+UI_devicecontentviewer_0542=Device
+UI_devicecontentviewer_0543=Raw Name:
+UI_devicecontentviewer_0544=Description:
+UI_devicecontentviewer_0545=Package Type:
+UI_devicecontentviewer_0546=File Size:
+UI_devicecontentviewer_0547=Open in...
+
+## --- deviceviewer.ui ---
+UI_deviceviewer_0548=Device Viewer
+UI_deviceviewer_0549=Free Space
+UI_deviceviewer_0550=Used Space
+UI_deviceviewer_0551=Partitions
+UI_deviceviewer_0552=Backup Device
+UI_deviceviewer_0553=Restore Device
+UI_deviceviewer_0554=Search...
+UI_deviceviewer_0555=Name
+UI_deviceviewer_0556=Creation Date
+
+## --- fatxfiledialog.ui ---
+UI_fatxfiledialog_0557=Dialog
+UI_fatxfiledialog_0558=Type of File:
+UI_fatxfiledialog_0559=Location:
+UI_fatxfiledialog_0560=Size:
+UI_fatxfiledialog_0561=Size on disk:
+UI_fatxfiledialog_0562=Created:
+UI_fatxfiledialog_0563=Modified:
+UI_fatxfiledialog_0564=Accessed:
+UI_fatxfiledialog_0565=Attributes:
+UI_fatxfiledialog_0566=Read Only
+UI_fatxfiledialog_0567=Archive
+UI_fatxfiledialog_0568=Hidden
+UI_fatxfiledialog_0569=System
+UI_fatxfiledialog_0570=Normal
+UI_fatxfiledialog_0571=Directory
+UI_fatxfiledialog_0572=OK
+
+## --- fatxpathgendialog.ui ---
+UI_fatxpathgendialog_0573=FATX File Path Tool
+
+## --- flashdriveconfigdatadialog.ui ---
+UI_flashdriveconfigdatadialog_0574=Flash Drive Configuration Data
+UI_flashdriveconfigdatadialog_0575=DeviceID:
+UI_flashdriveconfigdatadialog_0576=Security Size:
+UI_flashdriveconfigdatadialog_0577=Device Size:
+UI_flashdriveconfigdatadialog_0578=Read Speed:
+UI_flashdriveconfigdatadialog_0579=Write Speed:
+UI_flashdriveconfigdatadialog_0580=Signature:
+
+## --- gameadderdialog.ui ---
+UI_gameadderdialog_0581=All Games
+UI_gameadderdialog_0582=Game Name
+UI_gameadderdialog_0583=Award Count
+UI_gameadderdialog_0584=Awards Only
+UI_gameadderdialog_0585=Developer Mode
+UI_gameadderdialog_0586=Queue
+UI_gameadderdialog_0587=Add Games
+
+## --- gamerpicturepackdialog.ui ---
+UI_gamerpicturepackdialog_0588=Gamer Picture Pack Creator
+UI_gamerpicturepackdialog_0589=Stop Searching
+UI_gamerpicturepackdialog_0590=Search By:
+UI_gamerpicturepackdialog_0591=Title ID
+UI_gamerpicturepackdialog_0592=Gamertag
+UI_gamerpicturepackdialog_0593=Pack Name
+UI_gamerpicturepackdialog_0594=Create Pack
+UI_gamerpicturepackdialog_0595=Search
+UI_gamerpicturepackdialog_0596=Your Pack
+
+## --- githubcommitsdialog.ui ---
+UI_githubcommitsdialog_0597=Updates
+
+## --- imagedialog.ui ---
+UI_imagedialog_0598=[Image Here]
+
+## --- isodialog.ui ---
+UI_isodialog_0599=ISO
+UI_isodialog_0600=Address
+UI_isodialog_0601=Sector
+UI_isodialog_0602=XGD Version
+UI_isodialog_0603=Extract All Files
+UI_isodialog_0604=Sector Tool
+
+## --- isosectordialog.ui ---
+UI_isosectordialog_0605=ISO Sector Tool
+UI_isosectordialog_0606=Sector:
+
+## --- licensingdatadialog.ui ---
+UI_licensingdatadialog_0607=License Data Table
+UI_licensingdatadialog_0608=Type
+UI_licensingdatadialog_0609=License ID
+UI_licensingdatadialog_0610=Bits
+UI_licensingdatadialog_0611=Flags
+
+## --- mainwindow.ui ---
+UI_mainwindow_0612=Velocity - Xbox 360 File Manager
+UI_mainwindow_0613=File
+UI_mainwindow_0614=Open
+UI_mainwindow_0615=Tools
+UI_mainwindow_0616=Profile Tools
+UI_mainwindow_0617=Device Tools
+UI_mainwindow_0618=Help
+UI_mainwindow_0619=Plugins
+UI_mainwindow_0620=Game Modders
+UI_mainwindow_0621=Profile Modders
+UI_mainwindow_0622=Settings
+UI_mainwindow_0623=Create Package
+UI_mainwindow_0624=Theme Creator
+UI_mainwindow_0625=Package
+UI_mainwindow_0626=GPD
+UI_mainwindow_0627=Avatar Asset
+UI_mainwindow_0628=Title ID Finder
+UI_mainwindow_0629=Profile Creator
+UI_mainwindow_0630=Some Game
+UI_mainwindow_0631=Reload
+UI_mainwindow_0632=asdf
+UI_mainwindow_0633=View Wiki
+UI_mainwindow_0634=Donate
+UI_mainwindow_0635=Preferences
+UI_mainwindow_0636=File Path Tool
+UI_mainwindow_0637=Profile Cleaner
+UI_mainwindow_0638=Check For Updates
+UI_mainwindow_0639=SVOD System
+UI_mainwindow_0640=YTGR
+UI_mainwindow_0641=Raw Device Viewer
+UI_mainwindow_0642=Content Device Viewer
+UI_mainwindow_0643=Xbox360 Executable
+UI_mainwindow_0644=XUIZ
+
+## --- metadata.ui ---
+UI_metadata_0645=Metadata
+UI_metadata_0646=Licensing Data
+UI_metadata_0647=ContentID/Header Hash
+UI_metadata_0648=Header Size
+UI_metadata_0649=Media ID
+UI_metadata_0650=Base Version
+UI_metadata_0651=Platform
+UI_metadata_0652=Executable Type
+UI_metadata_0653=Disc Number
+UI_metadata_0654=Disc In Set
+UI_metadata_0655=Save Game ID
+UI_metadata_0656=Profile ID
+UI_metadata_0657=Volume Descriptor
+UI_metadata_0658=Data File Count
+UI_metadata_0659=Data File Combined Size
+UI_metadata_0660=Device ID
+UI_metadata_0661=Display Name
+UI_metadata_0662=Display Description
+UI_metadata_0663=Publisher Name
+UI_metadata_0664=Title Name
+UI_metadata_0665=Transfer Flags
+UI_metadata_0666=Thumbnail Image Size
+UI_metadata_0667=Title Thumbnail Image Size
+
+## --- multiprogressdialog.ui ---
+UI_multiprogressdialog_0668=Overall Progress
+
+## --- packageviewer.ui ---
+UI_packageviewer_0669=Package Viewer
+UI_packageviewer_0670=Magic:
+UI_packageviewer_0671=ProfileID:
+UI_packageviewer_0672=Open In
+UI_packageviewer_0673=STFS Tool
+UI_packageviewer_0674=File Name
+UI_packageviewer_0675=File Size
+UI_packageviewer_0676=Starting Address
+UI_packageviewer_0677=Starting Block
+UI_packageviewer_0678=File Search:
+
+## --- partitiondialog.ui ---
+UI_partitiondialog_0679=Partitions Dialog
+UI_partitiondialog_0680=Cluster Tool
+UI_partitiondialog_0681=ID:
+UI_partitiondialog_0682=Secters per Cluster:
+UI_partitiondialog_0683=Cluster Size:
+UI_partitiondialog_0684=Root Directory Cluster:
+UI_partitiondialog_0685=First Cluster Address:
+
+## --- preferencesdialog.ui ---
+UI_preferencesdialog_0686=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Package Drop Action&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;The action that will occur when an STFS Package is dropped onto the main window.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_preferencesdialog_0687=Package Drop Action:
+UI_preferencesdialog_0688=Open In Package Viewer
+UI_preferencesdialog_0689=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Profile Drop Action&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The action that will occur when a profile is dropped onto the main form.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_preferencesdialog_0690=Profile Drop Action:
+UI_preferencesdialog_0691=Open in Package Viewer
+UI_preferencesdialog_0692=Open in Profile Editor
+UI_preferencesdialog_0693=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Plugin Directory&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The path to the directory where Velocity should look for plugins.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_preferencesdialog_0694=Plugins Directory:
+UI_preferencesdialog_0695=Anonymously send data to Velocity developers to improve experience.
+UI_preferencesdialog_0696=Restore Defaults
+
+## --- profilecleanerwizard.ui ---
+UI_profilecleanerwizard_0697=Welcome to the profile cleaner. This tool will allow you to remove unnecessary files inside your profile to make it smaller.
+UI_profilecleanerwizard_0698=Select a Profile
+UI_profilecleanerwizard_0699=Open a profile to clean
+UI_profilecleanerwizard_0700=Customize the Clean
+UI_profilecleanerwizard_0701=How much data should be removed?
+UI_profilecleanerwizard_0702=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Dust&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove all of the unused data in both the GPDs and in your profile's package&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecleanerwizard_0703=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Sweep&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removes everything that a dust will, as well as all the images from the GPDs&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecleanerwizard_0704=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Purify&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removes everything a sweep will, plus setting data from game GPDs. This may cause you to lose game progress&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecleanerwizard_0705=Cleaning...
+UI_profilecleanerwizard_0706=Your profile is in the process of being cleaned
+UI_profilecleanerwizard_0707=&lt;b&gt;Start Size:&lt;/b&gt;
+UI_profilecleanerwizard_0708=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;End Size:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecleanerwizard_0709=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecleanerwizard_0710=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Data Removed:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+
+## --- profilecreatorwizard.ui ---
+UI_profilecreatorwizard_0711=Profile Creation Wizard
+UI_profilecreatorwizard_0712=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Welcome to the profile creation wizard. You can create a profile for offline use on either a retail Xbox360 or development kit.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Click next to begin.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecreatorwizard_0713=Choose which console type the profile will be for
+UI_profilecreatorwizard_0714=Choose the gamertag for the profile
+UI_profilecreatorwizard_0715=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;The gamertag is the display name for the profile. It doesn't really matter what you make it in here, because you can always change it through the Xbox360.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profilecreatorwizard_0716=Gamerpicture
+UI_profilecreatorwizard_0717=Choose the gamerpicture for the profile
+UI_profilecreatorwizard_0718=Avatar
+UI_profilecreatorwizard_0719=Choose the starting avatar for the profile
+UI_profilecreatorwizard_0720=Male
+UI_profilecreatorwizard_0721=Female
+UI_profilecreatorwizard_0722=Choose a place to save the new profile
+UI_profilecreatorwizard_0723=Desktop Location
+
+## --- profileeditor.ui ---
+UI_profileeditor_0724=General Settings
+UI_profileeditor_0725=Account Information
+UI_profileeditor_0726=gamerscore
+UI_profileeditor_0727=Language:
+UI_profileeditor_0728=Subscription Teir:
+UI_profileeditor_0729=Parental Controls Enabled:
+UI_profileeditor_0730=Payment Type Credit Card:
+UI_profileeditor_0731=XUID:
+UI_profileeditor_0732=Type:
+UI_profileeditor_0733=Developer
+UI_profileeditor_0734=Retail
+UI_profileeditor_0735=XboxLIVE (PROD)
+UI_profileeditor_0736=PartnerNet (PART)
+UI_profileeditor_0737=Network:
+UI_profileeditor_0738=Passcode:
+UI_profileeditor_0739=Null
+UI_profileeditor_0740=Up
+UI_profileeditor_0741=Down
+UI_profileeditor_0742=Left
+UI_profileeditor_0743=Right
+UI_profileeditor_0744=LT
+UI_profileeditor_0745=RT
+UI_profileeditor_0746=LB
+UI_profileeditor_0747=RB
+UI_profileeditor_0748=LIVE Enabled
+UI_profileeditor_0749=Recovering
+UI_profileeditor_0750=Passcode
+UI_profileeditor_0751=Profile Settings
+UI_profileeditor_0752=Motto:
+UI_profileeditor_0753=Gamerzone:
+UI_profileeditor_0754=None
+UI_profileeditor_0755=Recreational
+UI_profileeditor_0756=Pro
+UI_profileeditor_0757=Family
+UI_profileeditor_0758=Underground
+UI_profileeditor_0759=Region:
+UI_profileeditor_0760=Years on Live:
+UI_profileeditor_0761=Reputation:
+UI_profileeditor_0762=Bio:
+UI_profileeditor_0763=Achievements
+UI_profileeditor_0764=Games
+UI_profileeditor_0765=State
+UI_profileeditor_0766=Game
+UI_profileeditor_0767=Name:
+UI_profileeditor_0768=TitleID:
+UI_profileeditor_0769=Last Played:
+UI_profileeditor_0770=Achievements:
+UI_profileeditor_0771=Gamerscore:
+UI_profileeditor_0772=Unlock All Achievements
+UI_profileeditor_0773=Create Achievement
+UI_profileeditor_0774=Extract GPD
+UI_profileeditor_0775=Achievement
+UI_profileeditor_0776=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Name&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0777=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Locked: &lt;/span&gt;&lt;span style=&quot; font-size:8pt; color:#5f5f5f;&quot;&gt;Some description&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0778=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Unlocked &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0779=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Type&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0780=yyyy-MM-dd hh:mm:ss.zzz AP
+UI_profileeditor_0781=Locked
+UI_profileeditor_0782=Unlocked Offline
+UI_profileeditor_0783=Unlocked Online
+UI_profileeditor_0784=Avatar Awards
+UI_profileeditor_0785=Gender
+UI_profileeditor_0786=Awards:
+UI_profileeditor_0787=Unlock All Awards
+UI_profileeditor_0788=Award
+UI_profileeditor_0789=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Locked  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0790=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Unlocked  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0791=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Gender  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0792=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Type  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileeditor_0793=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-style:italic;&quot;&gt;Secret  &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+
+## --- profileselectiondialog.ui ---
+UI_profileselectiondialog_0794=&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The profile associated with FILE_NAME doesn't exist on this device. You can select a different profile to associate with your file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_profileselectiondialog_0795=Select
+UI_profileselectiondialog_0796=Don't Change Profile
+
+## --- propertiesdialog.ui ---
+UI_propertiesdialog_0797=Properties
+UI_propertiesdialog_0798=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Type of File:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_propertiesdialog_0799=Size on Disk:
+UI_propertiesdialog_0800=Consecutive Blocks
+UI_propertiesdialog_0801=Folder
+UI_propertiesdialog_0802=Apply
+
+## --- renamedialog.ui ---
+UI_renamedialog_0803=Rename Dialog
+UI_renamedialog_0804=New Name:
+UI_renamedialog_0805=Save
+
+## --- securitysectordialog.ui ---
+UI_securitysectordialog_0806=Security Blob Dialog
+UI_securitysectordialog_0807=Serial Number:
+UI_securitysectordialog_0808=Firmware Revision:
+UI_securitysectordialog_0809=Model Number:
+UI_securitysectordialog_0810=Adressable Sectors:
+
+## --- singleprogressdialog.ui ---
+UI_singleprogressdialog_0811=%p%
+
+## --- stfstoolsdialog.ui ---
+UI_stfstoolsdialog_0812=Block Number:
+UI_stfstoolsdialog_0813=Hash Address:
+
+## --- stfsvolumedescriptordialog.ui ---
+UI_stfsvolumedescriptordialog_0814=Struct Size
+UI_stfsvolumedescriptordialog_0815=Hash Table
+UI_stfsvolumedescriptordialog_0816=Package Type
+UI_stfsvolumedescriptordialog_0817=File Table Block Count
+UI_stfsvolumedescriptordialog_0818=File Table Block Number
+UI_stfsvolumedescriptordialog_0819=Top Hash Table Hash
+UI_stfsvolumedescriptordialog_0820=Total Allocated Block Count
+UI_stfsvolumedescriptordialog_0821=Toal Unallocated Block Count
+
+## --- strbdialog.ui ---
+UI_strbdialog_0822=Avatar Asset Dialog
+UI_strbdialog_0823=Avatar Gender:
+UI_strbdialog_0824=Sub-Category
+UI_strbdialog_0825=Binary Asset Type:
+UI_strbdialog_0826=Asset Type Details:
+UI_strbdialog_0827=Animation
+UI_strbdialog_0828=Blocks
+
+## --- svoddialog.ui ---
+UI_svoddialog_0829=SVOD Viewer
+UI_svoddialog_0830=Sector Offset:
+UI_svoddialog_0831=SVOD Tool
+UI_svoddialog_0832=Resign
+UI_svoddialog_0833=File Index
+
+## --- svodtooldialog.ui ---
+UI_svodtooldialog_0834=File Index:
+
+## --- svodvolumedescriptordialog.ui ---
+UI_svodvolumedescriptordialog_0835=Block Cache Element Count
+UI_svodvolumedescriptordialog_0836=Worker Thread Processor
+UI_svodvolumedescriptordialog_0837=Worker Thread Priority
+UI_svodvolumedescriptordialog_0838=Root Hash
+UI_svodvolumedescriptordialog_0839=Device Features
+UI_svodvolumedescriptordialog_0840=Data Block Count
+UI_svodvolumedescriptordialog_0841=Data Block Offset
+
+## --- themecreationwizard.ui ---
+UI_themecreationwizard_0842=Theme Creation Wizard
+UI_themecreationwizard_0843=Welcome to the theme creator. This wizard will walk you through the steps of creating your very own custom theme for the Xbox360.
+
+Click next to begin.
+UI_themecreationwizard_0844=Choose the console type that the theme will be for
+UI_themecreationwizard_0845=General Information
+UI_themecreationwizard_0846=Choose a thumbnail and a name for your theme
+UI_themecreationwizard_0847=Sphere Color
+UI_themecreationwizard_0848=Choose the sphere color for the theme
+UI_themecreationwizard_0849=&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:10pt;&quot;&gt;This is the color of the gradient that appears at the bottom of the screen on the dashboard.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+UI_themecreationwizard_0850=Wallpaper One
+UI_themecreationwizard_0851=Background to the Home, Dash Identity, Party Details and LIVE channels
+UI_themecreationwizard_0852=Select an Image
+UI_themecreationwizard_0853=Wallpaper Two
+UI_themecreationwizard_0854=Background to the Games Library channel
+UI_themecreationwizard_0855=Wallpaper Three
+UI_themecreationwizard_0856=Background to the Media Library channel
+UI_themecreationwizard_0857=Wallpaper Four
+UI_themecreationwizard_0858=Background to the System Settings channel
+UI_themecreationwizard_0859=Choose a place to save the new theme
+
+## --- transferflagsdialog.ui ---
+UI_transferflagsdialog_0860=Transfer Flags Dialog
+UI_transferflagsdialog_0861=Flags:
+
+## --- xdbfdialog.ui ---
+UI_xdbfdialog_0862=XDBF Viewer
+UI_xdbfdialog_0863=ID
+
+## --- xexdialog.ui ---
+UI_xexdialog_0864=XEX Dialog
+UI_xexdialog_0865=Basic
+UI_xexdialog_0866=Encrypted
+UI_xexdialog_0867=Compressed
+UI_xexdialog_0868=Regions
+UI_xexdialog_0869=North America
+UI_xexdialog_0870=Japan
+UI_xexdialog_0871=China
+UI_xexdialog_0872=The Rest of Asia
+UI_xexdialog_0873=Australia and New Zealand
+UI_xexdialog_0874=The Rest of Europe
+UI_xexdialog_0875=The Rest of the World
+UI_xexdialog_0876=Resources
+UI_xexdialog_0877=Ratings
+UI_xexdialog_0878=Australian Office of Film and Literature Classification Board
+UI_xexdialog_0879=North America Entertainment Software Rating Board
+UI_xexdialog_0880=Great Britan's Pan European Games Information
+UI_xexdialog_0881=New Zealand Office of Film and Literature Classification Board
+UI_xexdialog_0882=Advanced Info
+UI_xexdialog_0883=Security Info
+UI_xexdialog_0884=Image Size:
+UI_xexdialog_0885=Load Address:
+UI_xexdialog_0886=Media ID:
+UI_xexdialog_0887=Key:
+UI_xexdialog_0888=LAN Key:
+UI_xexdialog_0889=System Import Libraries
+UI_xexdialog_0890=Static Libraries
+UI_xexdialog_0891=Executable Info
+UI_xexdialog_0892=Property
+UI_xexdialog_0893=Advanced Options
+UI_xexdialog_0894=Allowed Media Types
+UI_xexdialog_0895=Hard Disk
+UI_xexdialog_0896=DVDX2
+UI_xexdialog_0897=DVDCD
+UI_xexdialog_0898=DVD5
+UI_xexdialog_0899=DVD9
+UI_xexdialog_0900=System Flash
+UI_xexdialog_0901=Memory Unity
+UI_xexdialog_0902=Mass Storage Device
+UI_xexdialog_0903=SMB File System
+UI_xexdialog_0904=Direct From RAM
+UI_xexdialog_0905=Secure Virtual Optical Device
+UI_xexdialog_0906=Wireless N Storage Device
+UI_xexdialog_0907=System Extended Partiton
+UI_xexdialog_0908=System Axuillary Partition
+UI_xexdialog_0909=Insecure Package
+UI_xexdialog_0910=Save Game Package
+UI_xexdialog_0911=Locally Signed Package
+UI_xexdialog_0912=Live Signed Package
+UI_xexdialog_0913=Xbox Platform Package
+UI_xexdialog_0914=Module Flags
+UI_xexdialog_0915=Title Module
+UI_xexdialog_0916=Exports to Title
+UI_xexdialog_0917=System Debugger
+UI_xexdialog_0918=DLL
+UI_xexdialog_0919=Patch
+UI_xexdialog_0920=Full Patch
+UI_xexdialog_0921=Delta Patch
+UI_xexdialog_0922=User Mode
+UI_xexdialog_0923=Image Flags
+UI_xexdialog_0924=XGD2 Media Only
+UI_xexdialog_0925=Cardea Key
+UI_xexdialog_0926=Xeika Key
+UI_xexdialog_0927=Title User Mode
+UI_xexdialog_0928=System User Mode
+UI_xexdialog_0929=Orange0
+UI_xexdialog_0930=Orange1
+UI_xexdialog_0931=Orange2
+UI_xexdialog_0932=IPTV Signup Application
+UI_xexdialog_0933=IPTV Title Application
+UI_xexdialog_0934=Keyvault Privileges Required
+UI_xexdialog_0935=Online Acativation Required
+UI_xexdialog_0936=Page Size 4KB
+UI_xexdialog_0937=No Game Region
+UI_xexdialog_0938=Revocation Check Optional
+UI_xexdialog_0939=Revocation Check Required
+UI_xexdialog_0940=Extract PE File
+
+## --- xuizdialog.ui ---
+UI_xuizdialog_0941=XUIZ Dialog
+UI_xuizdialog_0942=Path
+
+## --- ytgrdialog.ui ---
+UI_ytgrdialog_0943=YTGR Dialog
+UI_ytgrdialog_0944=XSignerMinimum Version:
+UI_ytgrdialog_0945=Added to Server:
+UI_ytgrdialog_0946=Content Length:
+UI_ytgrdialog_0947=Cryptographically Valid:
+UI_ytgrdialog_0948=Content Hash
+UI_ytgrdialog_0949=RSA Signature
