@@ -10,8 +10,17 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout do seu repo
         uses: actions/checkout@v4
+        with:
+          path: mods
+
+      - name: Clonar projeto original Velocity
+        run: git clone https://github.com/gualdimar/velocity velocity-src
+
+      - name: Substituir packageviewer.cpp modificado
+        run: copy mods\packageviewer.cpp velocity-src\Velocity\packageviewer.cpp
+        shell: cmd
 
       - name: Instalar Qt 5.15
         uses: jurplel/install-qt-action@v3
@@ -20,25 +29,24 @@ jobs:
           host: 'windows'
           target: 'desktop'
           arch: 'win64_mingw81'
-          modules: ''
 
       - name: Compilar o projeto
         shell: cmd
         run: |
-          qmake Velocity/Velocity.pro -spec win32-g++ CONFIG+=release
+          cd velocity-src\Velocity
+          qmake Velocity.pro -spec win32-g++ CONFIG+=release
           mingw32-make -j4
 
       - name: Copiar DLLs com windeployqt
         shell: cmd
         run: |
           mkdir deploy
-          copy release\Velocity.exe deploy\
+          copy velocity-src\Velocity\release\Velocity.exe deploy\
           windeployqt --release --no-translations deploy\Velocity.exe
 
       - name: Empacotar em ZIP
         shell: pwsh
-        run: |
-          Compress-Archive -Path deploy\* -DestinationPath Velocity-Windows.zip
+        run: Compress-Archive -Path deploy\* -DestinationPath Velocity-Windows.zip
 
       - name: Upload do executável
         uses: actions/upload-artifact@v4
