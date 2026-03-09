@@ -1,6 +1,6 @@
 name: Build Velocity Windows
 
-on:
+"on":
   push:
     branches: [ main, master ]
   workflow_dispatch:
